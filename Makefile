@@ -7,3 +7,4 @@ clean:
 	rm -f ex8
 	rm -f ex9
 	rm -f ex10
+	rm -f ex11
