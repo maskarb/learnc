@@ -9,7 +9,7 @@ int main(int argc, char *argv[])
 		"Mary", "John", "Lisa"
 	};
 
-	// safely get the sie of ages
+	// safely get the size of ages
 	int count = sizeof(ages) / sizeof(int);
 	int i = 0;
 	
